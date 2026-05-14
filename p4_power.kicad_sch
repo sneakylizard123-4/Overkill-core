@@ -1417,7 +1417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1aada46c-6010-446d-a631-c1a901b8bc40")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR030"
 			(at 91.44 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -1477,7 +1477,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "#PWR036")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -1495,7 +1495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c06804c-ed20-49e9-b969-7a487a5c70c8")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR027"
 			(at 25.4 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -1555,7 +1555,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "#PWR033")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -1737,7 +1737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76ea0efc-f910-4617-b973-0624e18967ea")
-		(property "Reference" "U7"
+		(property "Reference" "U6"
 			(at 45.72 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1844,7 +1844,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "U7")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -2106,7 +2106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9edae2cb-6e9f-4eaf-b1fe-3853790197d8")
-		(property "Reference" "R24"
+		(property "Reference" "R20"
 			(at 71.12 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2170,7 +2170,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "R24")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -2350,7 +2350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5b4790e-2eae-4b25-a005-be7cf8f11e26")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR029"
 			(at 68.58 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -2410,7 +2410,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "#PWR035")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -2428,7 +2428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d15c9c5f-a22a-4b3a-8227-3d5969db6ae3")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR028"
 			(at 25.4 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -2489,7 +2489,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "#PWR034")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -2507,7 +2507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e08ef668-54dc-4377-9fbc-7ef6f4ac9180")
-		(property "Reference" "R23"
+		(property "Reference" "R19"
 			(at 71.12 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2571,7 +2571,7 @@
 		(instances
 			(project "Overkill-core"
 				(path "/fc53a0b2-7a4c-469b-8f54-4e370debb709/b418b60c-f580-4941-9de1-4c275543c012/ee985d65-bcc1-4e4e-9738-4eeef2164bc1"
-					(reference "R23")
+					(reference "R19")
 					(unit 1)
 				)
 			)

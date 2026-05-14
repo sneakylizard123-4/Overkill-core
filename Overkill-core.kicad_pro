@@ -632,7 +632,7 @@
         "uuid": "fc53a0b2-7a4c-469b-8f54-4e370debb709"
       }
     ],
-    "used_designators": "J4-11,TP1-2,R39-43,U1,U12-13,Q7-8,D5,C81-91,Y4,#PWR68-88",
+    "used_designators": "U1-13,Q1-8,L1-6,SW1-2,TP1-2,R1-50,J1-14,C1-97,FPC1-2,D1-6,Y1-4,#PWR1-98",
     "variants": []
   },
   "sheets": [
@@ -667,6 +667,10 @@
     [
       "87085562-09ca-40b9-ba20-9c5931f1b63a",
       "USBUART"
+    ],
+    [
+      "0592b948-1331-447e-aa34-0bf036370596",
+      "Interface"
     ]
   ],
   "text_variables": {},
